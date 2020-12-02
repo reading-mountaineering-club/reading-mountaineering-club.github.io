@@ -312,7 +312,7 @@ other_guides{
 	}
 #rightPan ul.link li a{
 	font:20px/20px Arial, Helvetica, sans-serif; text-transform:uppercase; color:#DC801E ; font-weight:normal; 
-	background-color:#404040; background-image:none;  display:block; width:104px; text-align:right; height:20px;
+	background-color:#404040; background-image:none;  display:block; width:104px; text-align:center; height:20px;
 	}
 #rightPan ul.link li a:hover{
 	color:#F79C10; background-color:#404040; padding:0; margin:0;
