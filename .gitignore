@@ -1,0 +1,4 @@
+.scripts/
+*.vscode
+*.eclipse
+*.tmp
