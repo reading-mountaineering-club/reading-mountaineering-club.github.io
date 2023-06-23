@@ -107,12 +107,6 @@ other_guides{
 #left_pan ul{
 	width:150px; display:block; margin:248px 0 0 28px;
 	}
-#left_pan ul li{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:#B8A997 1px dotted; padding: 0 0 0 18px;
-	}
-#left_pan ul li.li1{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:none; padding: 0 0 0 18px;
-	}
 #left_pan ul li a{
 	font:12px/23px Verdana, Arial, Helvetica, sans-serif; color:#FFFFFF; text-decoration:none; background-color:#404040;
 	}
@@ -124,12 +118,6 @@ other_guides{
 	}
 #left_pan ul.other{
 	width:150px; display:block; margin:248px 0 0 28px;
-	}
-#left_pan ul.other li{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:#B8A997 1px dotted; padding: 0 0 0 18px;
-	}
-#left_pan ul.other li.li1{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:none; padding: 0 0 0 18px;
 	}
 #left_pan ul.other li a{
 	font:12px/23px Verdana, Arial, Helvetica, sans-serif; color:#FFFFFF; text-decoration:none; background-color:#404040;
@@ -144,12 +132,6 @@ other_guides{
 #left_pan ul.home{
 	width:150px; display:block; margin:28px 0 0 28px;
 	}
-#left_pan ul.home li{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:#B8A997 1px dotted; padding: 0 0 0 18px;
-	}
-#left_pan ul.home li.li1{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:none; padding: 0 0 0 18px;
-	}
 #left_pan ul.home li a{
 	font:12px/23px Verdana, Arial, Helvetica, sans-serif; color:#FFFFFF; text-decoration:none; background-color:#404040;
 	}
@@ -162,14 +144,8 @@ other_guides{
 #left_pan ul.extra{
 	width:150px; display:block; margin:50px 0 0 28px;
 	}
-#left_pan ul.extra li{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:#B8A997 1px dashed; padding: 0 0 0 18px;
-	}
 #left_pan ul.extra li a{
 	font:12px/18px Verdana, Arial, Helvetica, sans-serif;
-	}
-#left_pan ul.extra li.li1{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:none; padding: 0 0 0 18px;
 	}
 #left_pan ul.extra li.title{
 	background:none; border-bottom:none; padding: 0 0 0 0; color:#F89020; font-weight:bold;
@@ -183,17 +159,8 @@ other_guides{
 #left_pan ul.extra2{
 	width:150px; display:block; margin:50px 0 0 28px;
 	}
-#left_pan ul.extra2 li{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:#B8A997 1px dashed; padding: 0 0 0 18px;
-	}
 #left_pan ul.extra2 li a{
 	font:12px/18px Verdana, Arial, Helvetica, sans-serif;
-	}
-#left_pan ul.extra2 li.li1{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:none; padding: 0 0 0 18px;
-	}
-#left_pan ul.extra2 li.li2{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; border-bottom:none; padding: 0 0 0 18px;
 	}
 #left_pan ul.extra2 li.fb{
 	background:url(../images/fb.gif) no-repeat 0 8px; border-bottom:none; padding: 5px 0 5px 18px;
@@ -230,21 +197,11 @@ other_guides{
 #rightPan ul li{
 	float:left;  height:29px; 
 	}
-#rightPan ul li a{
-	font:12px/29px Arial, Helvetica, sans-serif; font-weight:bold; height:29px; display:block; color:#FFFFFF;
-	background:url(../images/navi_bg.gif) repeat-x 0 0 #005050; text-decoration:none; text-align:center;
-	}
 #rightPan ul li a.main{
 	background:url(../images/home.gif) no-repeat 0 0; width:59px;
 	}
 #rightPan ul li a.main:hover{
 	background:url(../images/home_h.gif) no-repeat 0 0; width:59px;
-	}
-#rightPan ul li a.home{
-	background:url(../images/about_us.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul li a.home:hover{
-	background:url(../images/about_us_h.gif) no-repeat 0 0; width:74px;
 	}
 #rightPan ul.main{
 	width:550px; display:block; margin:0 0 0 25px; height:29px; font-size:0; 
@@ -252,51 +209,11 @@ other_guides{
 #rightPan ul.main li{
 	float:left;  height:29px; 
 	}
-#rightPan ul.main li a{
-	font:12px/29px Arial, Helvetica, sans-serif; font-weight:bold; height:29px; display:block; color:#FFFFFF;
-	background:url(../images/navi_bg.gif) repeat-x 0 0 #005050; text-decoration:none; text-align:center;
-	}
 #rightPan ul.main li a.main{
 	background:url(../images/home.gif) no-repeat 0 0; width:59px;
 	}
 #rightPan ul.main li a.main:hover{
 	background:url(../images/home_h.gif) no-repeat 0 0; width:59px;
-	}
-#rightPan ul.main li a.home{
-	background:url(../images/about_us.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul.main li a.home:hover{
-	background:url(../images/about_us_h.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul.main li a.home2{
-	background:url(../images/about_us.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul.main li a.home2:hover{
-	background:url(../images/about_us_h.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul.main li a.home3{
-	background:url(../images/about_us.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul.main li a.home3:hover{
-	background:url(../images/about_us_h.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul.main li a.home4{
-	background:url(../images/about_us.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul.main li a.home4:hover{
-	background:url(../images/about_us_h.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul li a.sub{
-	background:url(../images/submission.gif) no-repeat 0 0; width:92px;
-	}
-#rightPan ul li a.sub:hover{
-	background:url(../images/submission_h.gif) no-repeat 0 0; width:92px;
-	}
-#rightPan ul li a.con{
-	background:url(../images/contact_us.gif) no-repeat 0 0; width:74px;
-	}
-#rightPan ul li a.con:hover{
-	background:url(../images/contact_us_h.gif) no-repeat 0 0; width:74px;
 	}
 #rightPan ul.link{
 	width:590px; display:block; margin:50px 0 0 0; height:20px; 
@@ -399,9 +316,6 @@ other_guides{
 	}
 #rightPan ul.list li.whoswho{
 	background:none; color:#FFFFFF; width:350px; border-bottom:none; padding:0 230px 0 18px;; margin:0; display:block; height:130px; font:13px/14px Verdana, Arial, Helvetica, sans-serif;
-	}
-#rightPan ul.list li.lst{
-	background:url(../images/ul2_arrow.gif) no-repeat 0 8px; color:#FFFFFF; border-bottom:none; padding:0; margin:0; display:block; height:24px; font:13px/14px Verdana, Arial, Helvetica, sans-serif;
 	}
 #rightPan ul.list li.lst span{
 	color:#FFFFFF; font:13px/14px Verdana, Arial, Helvetica, sans-serif;
@@ -531,10 +445,6 @@ margin:3px 0 6px 10px;
 #rightLeft{
 	width:280px; float:left; margin:0 0 45px 10px;
 	}
-#rightLeft h2{
-	width:269px; height:29px; display:block; color:#202020; font:16px/18px Arial, Helvetica, sans-serif; font-weight:bold;
-	background:url(../images/h2_bg.gif) no-repeat 11px 143px #C97D05; padding:11px 0 0 10px; margin:0 0 8px 0; text-transform:none;
-	}
 #rightleft p{
 	width:269px; font:14px/19px Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:normal; display:block;
 	margin:0 0 20px 10px; background-color:#404040;
@@ -568,27 +478,9 @@ margin:3px 0 6px 10px;
 	font:13px/14px Verdana, Arial, Helvetica, sans-serif; color:#FFFFFF; margin:0; padding:0; display:block;
 	background-image:none;	background-color:#404040; text-align:left; font-weight:normal; width:277px;
 	}
-#rightLeft a.more{
-	width:32px; background:url(../images/more_arrow5.gif) no-repeat 0 0 #404040; color:#FFFFFF; margin:0 0 0 0px; height:16px;
-	font:12px/14px Arial, Helvetica, sans-serif; text-decoration:none; font-weight:bold; display:block; padding:0 0 0 23px;
-	float:right;
-	}
-#rightLeft a.more:hover{
-	color:#C01F0B; background:url(../images/more_arrow2.gif) no-repeat 0 0 #404040; width:32px;
-	}
 #rightRight{
 	width:280px; float:left; margin:0 0 0 20px; height: 100%;
 	}	
-#rightRight h2{
-	width:auto; height:29px; background:url(../images/h2_bg3.gif) no-repeat 303px 9px #303030; text-transform:none;
-	 font:16px/18px Arial, Helvetica, sans-serif; color:#FFFFFF; display:block; padding:11px 140px 0 15px;
-	  margin:0 0 10px 0; font-weight:bold;
-	}
-#rightRight h3{
-	width:auto; height:29px; background:url(../images/h2_bg3.gif) no-repeat 303px 9px #303030; text-transform:none;
-	 font:16px/18px Arial, Helvetica, sans-serif; color:#FFFFFF; display:block; padding:11px 0 0 15px;
-	  margin:0 0 10px 0; font-weight:bold;
-	}
 #rightRight ul{
 	width:280px; margin:0 0 15px 0px; padding:0; display:block;
 	}
@@ -623,15 +515,6 @@ display:block;
 	 background-image:none;	background-color:#404040; text-align:left; font-weight:normal; width:401px;
 	}
 
-#rightLeft a.more1{
-	width:100px; background:url(../images/ul3_arrow.gif) no-repeat 0 0 #404040; color:#FFFFFF; margin:0 0 0 0px; height:16px;
-	font:13px/14px Arial, Helvetica, sans-serif; text-decoration:none; font-weight:bold; display:block; padding:0 0 0 23px;
-	float:right;
-	}
-#rightLeft a.more1:hover{
-	color:#C01F0B; background:url(../images/more_arrow5.gif) no-repeat 0 0 #404040; width:100px;
-	}
-
 #leftBottom{
 	width:248px; float:left; margin:0; clear:both;
 padding:11px 0 0 0; 
@@ -642,11 +525,6 @@ padding:11px 0 0 0;
 #leftBottom form input{
 	width:136px; height:17px; display:block; font:11px Verdana, Arial, Helvetica, sans-serif; font-weight:bold;
 	padding:4px 0 0 12px; margin:0px 0 10px 0; background-color:#F7E3C3;
-	}
-#leftBottom form input.button{
-	width:59px; height:22px; display:block; background:url(images/ul3_arrow.gif) no-repeat 0 5px #404040; color:#FFFFFF;
-	font:13px/15px Verdana, Arial, Helvetica, sans-serif; padding:0 0 0 21px; margin:0 0 10px 90px; border:none;
-	cursor:pointer; font-weight:bold;
 	}
 #leftBottom form label{
 	width:132px; font:12px/23px Verdana, Tahoma, Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; display:block;
@@ -698,9 +576,6 @@ padding:11px 0 0 0;
 	}
 #footer ul.xhtml li a{
 	text-indent:-2000px; display:block; height:21px; margin:0; padding:0; font-size:0px;
-	}
-#footer ul.xhtml li a.xht{
-	background:url(../images/xhtml.gif) no-repeat 0 0 #6B6854; color:#fff; width:66px;
 	}
 #footer ul.xhtml li a.css{
 	background:url(../images/css.gif) no-repeat 0 0 #6B6854; color:#fff; width:50px;
