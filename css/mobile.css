@@ -80,15 +80,6 @@ Put some margin around them so they are easy to press with a finger.
    display: none;
 }
 
-#rightLeft a.more1{
-	width:100px; background:url(../images/ul3_arrow_mob.gif) no-repeat 0 0 #FFFFFF; color:#000000; margin:0 0 0 0px; height:16px;
-	font:13px/14px Arial, Helvetica, sans-serif; text-decoration:none; font-weight:bold; display:block; padding:0 0 0 23px;
-	float:right;
-	}
-#rightLeft a.more1:hover{
-	color:#C01F0B;background:url(../images/ul3_arrow_mob.gif) no-repeat 0 0 #FFFFFF; width:100px; 
-	}
-
 #left_pan ul.home
 {
    display: none;
@@ -108,9 +99,6 @@ Put some margin around them so they are easy to press with a finger.
 	}
 #rightPan ul.main li a.main:hover{
 	width:59px;
-	}
-#rightPan ul.main li a.home{
-	background:url(../images/about_us_mob.gif) no-repeat 0 0; width:64px;
 	}
 #rightPan h4{
 	width:auto; padding:11px 0 5px 0x; background-color:#FFFFFF;
@@ -150,30 +138,6 @@ background-color:#FFFFFF;width:100%;margin:0 0 20px 10px;padding:5px 0 5px 0;col
 background-color:#808080;width:100%;margin:0 0 20px 10px;padding:5px 0 5px 0;color:#000000;font-weight:bold;  
 }
 
-#rightPan ul.main li a.home:hover{
-	background:url(../images/about_us_h74.gif) no-repeat 0 0; width:64px;
-	}
-#rightPan ul.main li a.home2{
-	background:url(../images/menu_mob.gif) no-repeat 0 0; width:56px;
-	}
-
-#rightPan ul.main li a.home2:hover{
-	background:url(../images/menu_mob_h56.gif) no-repeat 0 0; width:56px;
-	}
-#rightPan ul.main li a.home3{
-	background:url(../images/menu_mob_50.gif) no-repeat 0 0; width:50px;
-	}
-
-#rightPan ul.main li a.home3:hover{
-	background:url(../images/menu_mob_h50.gif) no-repeat 0 0; width:50px;
-	}
-#rightPan ul.main li a.home4{
-	background:url(../images/menu_mob_44.gif) no-repeat 0 0; width:44px;
-	}
-
-#rightPan ul.main li a.home4:hover{
-	background:url(../images/menu_mob_h44.gif) no-repeat 0 0; width:44px;
-	}
 #rightLeft{
 	width:auto; float:left; margin:0 0 10px 10px;
 	}
@@ -277,12 +241,6 @@ color:#808080;background-color:#FFFFFF;font-weight:bold; width:100%;padding: 0 0
 #rightPan ul.books li.heading{
 	width:auto;
 }
-#leftBottom form input.button{
-	width:59px; height:22px; display:block; background:url(../images/ul3_arrow_mob.gif) no-repeat 0 5px #FFFFFF; 
-        color:#000000;
-	font:13px/15px Verdana, Arial, Helvetica, sans-serif; padding:0 0 0 21px; margin:0 0 10px 90px; border:none;
-	cursor:pointer; font-weight:bold;
-	}
 #leftBottom form label{
 	color:#000000; font-weight:bold; 
 	background-color:#FFFFFF;
